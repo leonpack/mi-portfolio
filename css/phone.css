@@ -5,6 +5,10 @@
     margin-left: 10px;
 }
 
+.navbar ul li {
+    margin-block: 7px;
+}
+
 /* Home */
 #home {
     height: 820px;
@@ -45,5 +49,6 @@
 }
 
 #send{
-    width: 40%;
+    width: 50%;
+    height: 100%;
 }
