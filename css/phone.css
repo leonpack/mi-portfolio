@@ -1,0 +1,49 @@
+/* nav-bar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+/* Home */
+#home {
+    height: 820px;
+}
+
+#home::before{
+    background: url('updatebg.jpg') no-repeat center center/cover;
+}
+
+.headings {
+    font-size: 2rem;
+}
+
+.headingstype{
+    font-size: 2rem;
+}
+
+
+/* Portfolio */
+.gallery img{
+    width: 350px;
+    height: 250px;
+    margin: 10px;
+}
+
+/* Services */
+.box{
+    height: 70%;
+}
+
+/* Contact */
+.input{
+    width: 80%;
+}
+
+#msg{
+    width: 70%;
+}
+
+#send{
+    width: 40%;
+}
